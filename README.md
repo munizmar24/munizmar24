@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munizmar24
 - 👀 I’m interested in sustainability and tecnology
-- 🌱 I’m currently learning Ux/Ui qnd SQl
+- 🌱 I’m currently learning Ux/Ui and SQL
 - 📫 How to reach me @muniz.marr
 
 <!---
