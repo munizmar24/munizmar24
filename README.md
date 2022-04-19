@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munizmar24
 - 👀 I’m interested in sustainability and tecnology
-- 🌱 I’m currently learning Ux/Ui,JavaSscript,Html,CSS and SQL.
+- 🌱 I’m currently learning Ux/Ui,JavaScript,Html,CSS and SQL.
 - 📫 How to reach me @muniz.marr
 
 <!---
